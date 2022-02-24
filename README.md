@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 # Dillinger
 ## _The Last Markdown Editor, Ever_
 
@@ -18,4 +17,3 @@ AngularJS-powered HTML5 Markdown editor.
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
-
