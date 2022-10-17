@@ -19,3 +19,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <p>
 <hr>![우진 GitHub stats](https://github-readme-stats.vercel.app/api?username=bwj0509&theme=dark&show_icons=true)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=bwj0509)](https://solved.ac/bwj0509)
