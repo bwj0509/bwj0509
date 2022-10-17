@@ -21,7 +21,5 @@
 
 
 <hr>
-
-<div>https://github-readme-stats.vercel.app/api?username=bwj0509&theme=dark&show_icons=true</div>  
-<div>[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bwj59)](https://solved.ac/bwj59)</div>
+<p>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bwj59)](https://solved.ac/bwj59/)</p>
 
