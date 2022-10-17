@@ -1,8 +1,4 @@
-<div align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=WOOJIN&fontSize=90" />
-</div>
-
-  ![우진's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwj0509&show_icons=true&theme=radical)
+ ![우진's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwj0509&show_icons=true&theme=radical)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bwj59)](https://solved.ac/bwj59/)
   
   <br>
