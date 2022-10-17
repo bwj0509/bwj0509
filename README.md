@@ -19,3 +19,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <p>
 <hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwj0509&show_icons=true&theme=radical)
