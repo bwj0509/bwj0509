@@ -18,5 +18,4 @@
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <p>
-<hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwj0509&show_icons=true&theme=radical)
+<hr>![우진 GitHub stats](https://github-readme-stats.vercel.app/api?username=bwj0509&theme=dark&show_icons=true)
